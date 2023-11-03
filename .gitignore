@@ -7,3 +7,6 @@ Project6.vcxproj.user
 .replit
 main
 main-debug
+.cds-cache
+replit.nix
+
